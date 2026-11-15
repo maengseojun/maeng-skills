@@ -1,0 +1,9 @@
+{
+  "name": "maeng-harness",
+  "version": "0.4.19",
+  "description": "Engineering skills from my private harness: proof-guided optimization, debugging, prototypes, briefs, Notion and skill feedback. Its hooks and gate CLIs stay private.",
+  "author": {
+    "name": "Seojun Maeng"
+  },
+  "repository": "https://github.com/maengseojun/maeng-skills"
+}

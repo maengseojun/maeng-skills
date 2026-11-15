@@ -1,0 +1,9 @@
+{
+  "name": "maeng-tools",
+  "version": "0.3.26",
+  "description": "Hookless craft skills (research, writing, diagrams, front-end, video, browser) and model-routed agents. Safe in any repository.",
+  "author": {
+    "name": "Seojun Maeng"
+  },
+  "repository": "https://github.com/maengseojun/maeng-skills"
+}

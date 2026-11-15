@@ -1,0 +1,9 @@
+{
+  "name": "maeng",
+  "owner": { "name": "Seojun Maeng" },
+  "description": "Claude Code skills and model-routed agents from a personal harness: research, writing, diagrams, front-end, video and code.",
+  "plugins": [
+    { "name": "maeng-tools", "source": "./plugins/maeng-tools", "description": "Hookless craft skills and model-routed agents. Safe in any repository." },
+    { "name": "maeng-harness", "source": "./plugins/maeng-harness", "description": "Engineering skills from the harness: optimization proofs, debugging, prototypes and handoff. No hooks." }
+  ]
+}
